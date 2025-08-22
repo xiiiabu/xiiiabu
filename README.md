@@ -78,8 +78,4 @@ const abubakr = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=FF6EC7&style=for-the-badge&label=Profile+Views"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
 </div>
