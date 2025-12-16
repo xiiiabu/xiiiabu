@@ -1,10 +1,6 @@
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abubakr%20Inogomov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Integration+Specialist+%F0%9F%A4%96;Database+Architecture+Expert+%F0%9F%97%84%EF%B8%8F;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8"/>
-
 <!-- Matrix Rain Animation -->
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -23,7 +19,7 @@ const abubakr = {
     website: "🌐 abubakrinogomov.uz",
     instagram: "@abubbaakr",
     
-    currentFocus: "🎯 AI Integration & Full-Stack Development",
+    currentFocus: "🎯 AI Integration & Digital Product Development",
     learning: "🧠 Advanced AI/ML Algorithms",
     
     skills: {
@@ -63,8 +59,8 @@ const abubakr = {
 
 ```ascii
     ╔══════════════════════════════════════╗
-    ║                "FE!N"                ║
-    ║              - Abubakr               ║
+    ║                                      ║
+    ║          Abubakr Inogomov            ║
     ╚══════════════════════════════════════╝
 ```
 
