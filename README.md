@@ -1,42 +1,4 @@
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abubakr%20Inogomov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<!-- Matrix Rain Animation -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🎯 **About Me**
-
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
-```typescript
-const abubakr = {
-    name: "Abubakr Inogomov",
-    location: "🌍 Uzbekistan",
-    website: "🌐 abubakrinogomov.uz",
-    instagram: "@abubbaakr",
-    
-    currentFocus: "🎯 AI Integration & Digital Product Development",
-    learning: "🧠 Advanced AI/ML Algorithms",
-    
-    skills: {
-        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Python", "Express.js", "FastAPI"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
-        ai_tools: ["OpenAI", "Langchain", "n8n", "Automation"],
-        cloud: ["AWS", "Vercel", "Docker", "Kubernetes"]
-    },
-    
-    motto: "🚀 Transforming ideas into digital reality!"
-};
-```
-
----
-
-## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
@@ -53,25 +15,3 @@ const abubakr = {
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
----
-
-<div align="center">
-
-```ascii
-    ╔══════════════════════════════════════╗
-    ║                                      ║
-    ║          Abubakr Inogomov            ║
-    ╚══════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-### 💡 **Innovation • 🔧 Efficiency • 🎯 Excellence**
-
-*Building tomorrow's solutions with today's cutting-edge technology*
-
----
-
-</div>
